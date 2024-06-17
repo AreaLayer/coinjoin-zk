@@ -1,7 +1,6 @@
-<pre>
-Study of the Zero proof over Coinjoin, Bitcoin and Lightning Network
-Layer: Non-soft forks
-</p>
+## Study of the Zero proof over Coinjoin, Bitcoin and Lightning Network
+## Layer: Non-soft forks
+
 In a Peer-to-Peer (P2P) CoinJoin scenario, Zero-Knowledge (ZK) proofs can be particularly useful in enhancing security and privacy while mitigating DDoS and Sybil attacks. Here’s how ZK proofs can be applied in a P2P CoinJoin setting:
 
 1. **Decentralized Commitment and Participation**:
