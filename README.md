@@ -10,4 +10,6 @@ Study from Zero Proof for Firebolt wallet
 - Hidden amounts
 - Suruban UTXOs
 - High level cryptography
+- Anti-DDos
+- Anti-fraud between P2P UTXOs
 
