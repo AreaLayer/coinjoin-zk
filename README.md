@@ -4,6 +4,8 @@ Study from Zero Proof for Firebolt wallet
 
 ## Study proposal
 
+See possibility integration ZK proof thought Groth16
+
 ### Features
 
 - Confidential transations
