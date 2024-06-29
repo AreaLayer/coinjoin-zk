@@ -1,1 +1,28 @@
-
+{
+  "name": "coinjoin-sk",
+  "version": "1.0.0",
+  "description": "ibrary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"npm test\" && exit 1",
+    "start": "docker run -p 8080:8080 your-username/your-app-name:your-tag"
+  },
+  "author": "Area Layer",
+  "license": "MIT",
+  "dependencies": {
+    "bitcoinjs-lib": "^4.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/AreaLayer/javascript-dlc.git"
+},
+  "network": {
+    "mainnet": "https://mempool.space/",
+    "testnet4": "https://mempool.space/testnet4",
+    "signet": "https://mempool.space/signet"
+  }
+}
