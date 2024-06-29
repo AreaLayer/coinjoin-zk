@@ -10,7 +10,7 @@
   "author": "Area Layer",
   "license": "MIT",
   "dependencies": {
-    "bitcoinjs-lib": "^4.0.0"
+    "snarkjs": "^4.0.0"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
